@@ -1,6 +1,6 @@
-## Gooseworx Archive
+## Gooseworx Archive Future Dashboard
 
-Archive of Gooseworx social media.
+GA dashboard but with everything added
 
 ## To-Do:
 
@@ -16,7 +16,7 @@ Archive of Gooseworx social media.
 
 Locations:
 
-Home: https://gooseworx-archives.github.io
+Home: https://gooseworx-archives.github.io/gafuture
 
 Tumblr: https://gooseworx-archives.github.io/tumblr
 
@@ -30,4 +30,4 @@ Instagram (Fake): https://gooseworx-archives.github.io/ig
 
 X: https://gooseworx-archives.github.io/x
 
-Github: [You Are Already Here!](https://github.com/gooseworx-archives/gooseworx-archives.github.io)
+Github: [You Are Already Here!](https://github.com/gooseworx-archives/gafuture)
