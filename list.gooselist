@@ -2,42 +2,42 @@ GOOSEWORX-ARCHIVES-LIST-FORMAT-1.0
 --
 start
 -name "Bluesky"
--relative-url "bsky/index.html"
+-relative-url "/bsky/index.html"
 -icon "icons/bsky.jpg"
 end
 --
 --
 start
 -name "Tumblr"
--relative-url "tumblr/index.html"
+-relative-url "/tumblr/index.html"
 -icon "icons/tumblr.png"
 end
 --
 --
 start
 -name "Instagram (Fake)"
--relative-url "ig/index.html"
+-relative-url "/ig/index.html"
 -icon "icons/ig.svg"
 end
 --
 --
 start
 -name "X"
--relative-url "x"
+-relative-url "/x"
 -icon "icons/x.png"
 end
 --
 --
 start
 -name "YouTube"
--relative-url "yt"
+-relative-url "/yt"
 -icon "icons/yt.png"
 end
 --
 --
 start
 -name "Reddit"
--relative-url "reddit"
+-relative-url "/reddit"
 -icon "icons/reddit.webp"
 end
 --
